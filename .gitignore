@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.temp/
+raw_data/
+fluo_data/
+
+__pycache__
+
+*.log
+*.csv
